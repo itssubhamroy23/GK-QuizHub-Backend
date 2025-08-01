@@ -1,0 +1,192 @@
+{
+  "response_code": 0,
+  "results": [
+
+
+    {
+  "type": "multiple",
+  "difficulty": "hard",
+  "category": "General Knowledge",
+  "question": "Which metal is liquid at room temperature?",
+  "correct_answer": "Subham Roy",
+  "incorrect_answers": ["Lead", "Subham Roy", "Iron"]
+},
+   {
+  "type": "multiple",
+  "difficulty": "easy",
+  "category": "General Knowledge",
+  "question": "What is the capital of Australia?",
+  "correct_answer": "Canberra",
+  "incorrect_answers": ["Sydney", "Melbourne", "Brisbane"]
+},
+{
+  "type": "multiple",
+  "difficulty": "medium",
+  "category": "General Knowledge",
+  "question": "What is the tallest mountain in the world?",
+  "correct_answer": "Mount Everest",
+  "incorrect_answers": ["K2", "Kangchenjunga", "Makalu"]
+},
+{
+  "type": "multiple",
+  "difficulty": "easy",
+  "category": "General Knowledge",
+  "question": "How many continents are there?",
+  "correct_answer": "7",
+  "incorrect_answers": ["6", "5", "8"]
+},
+{
+  "type": "boolean",
+  "difficulty": "easy",
+  "category": "General Knowledge",
+  "question": "Lightning never strikes the same place twice.",
+  "correct_answer": "False",
+  "incorrect_answers": ["True"]
+},
+{
+  "type": "multiple",
+  "difficulty": "medium",
+  "category": "General Knowledge",
+  "question": "Which is the smallest planet in our solar system?",
+  "correct_answer": "Mercury",
+  "incorrect_answers": ["Mars", "Venus", "Pluto"]
+},
+{
+  "type": "multiple",
+  "difficulty": "easy",
+  "category": "General Knowledge",
+  "question": "Which country is known as the Land of the Rising Sun?",
+  "correct_answer": "Japan",
+  "incorrect_answers": ["China", "Thailand", "South Korea"]
+},
+{
+  "type": "multiple",
+  "difficulty": "easy",
+  "category": "General Knowledge",
+  "question": "Which language is spoken in Brazil?",
+  "correct_answer": "Portuguese",
+  "incorrect_answers": ["Spanish", "English", "French"]
+},
+{
+  "type": "multiple",
+  "difficulty": "medium",
+  "category": "General Knowledge",
+  "question": "Which year did World War II end?",
+  "correct_answer": "1945",
+  "incorrect_answers": ["1939", "1942", "1950"]
+},
+{
+  "type": "multiple",
+  "difficulty": "easy",
+  "category": "General Knowledge",
+  "question": "How many legs does a spider have?",
+  "correct_answer": "8",
+  "incorrect_answers": ["6", "10", "12"]
+},
+{
+  "type": "multiple",
+  "difficulty": "medium",
+  "category": "General Knowledge",
+  "question": "What is the main ingredient in guacamole?",
+  "correct_answer": "Avocado",
+  "incorrect_answers": ["Tomato", "Cucumber", "Peas"]
+},
+{
+  "type": "multiple",
+  "difficulty": "medium",
+  "category": "General Knowledge",
+  "question": "Which gas do plants absorb from the atmosphere?",
+  "correct_answer": "Carbon dioxide",
+  "incorrect_answers": ["Oxygen", "Nitrogen", "Hydrogen"]
+},
+{
+  "type": "boolean",
+  "difficulty": "easy",
+  "category": "General Knowledge",
+  "question": "Water boils at 100°C at sea level.",
+  "correct_answer": "True",
+  "incorrect_answers": ["False"]
+},
+{
+  "type": "multiple",
+  "difficulty": "hard",
+  "category": "General Knowledge",
+  "question": "What is the currency of South Korea?",
+  "correct_answer": "Won",
+  "incorrect_answers": ["Yen", "Ringgit", "Ruble"]
+},
+{
+  "type": "multiple",
+  "difficulty": "medium",
+  "category": "General Knowledge",
+  "question": "Which instrument has 88 keys?",
+  "correct_answer": "Piano",
+  "incorrect_answers": ["Guitar", "Flute", "Harp"]
+},
+{
+  "type": "multiple",
+  "difficulty": "easy",
+  "category": "General Knowledge",
+  "question": "What color is the 'Ex' in FedEx Ground?",
+  "correct_answer": "Green",
+  "incorrect_answers": ["Red", "Blue", "Orange"]
+},
+{
+  "type": "multiple",
+  "difficulty": "medium",
+  "category": "General Knowledge",
+  "question": "Which planet has the most moons?",
+  "correct_answer": "Saturn",
+  "incorrect_answers": ["Jupiter", "Neptune", "Earth"]
+},
+{
+  "type": "multiple",
+  "difficulty": "hard",
+  "category": "General Knowledge",
+  "question": "In what year did the Titanic sink?",
+  "correct_answer": "1912",
+  "incorrect_answers": ["1905", "1915", "1918"]
+},
+{
+  "type": "multiple",
+  "difficulty": "medium",
+  "category": "General Knowledge",
+  "question": "Who painted the Mona Lisa?",
+  "correct_answer": "Leonardo da Vinci",
+  "incorrect_answers": ["Vincent van Gogh", "Pablo Picasso", "Michelangelo"]
+},
+{
+  "type": "multiple",
+  "difficulty": "easy",
+  "category": "General Knowledge",
+  "question": "Which animal is known as the 'King of the Jungle'?",
+  "correct_answer": "Lion",
+  "incorrect_answers": ["Tiger", "Elephant", "Leopard"]
+},
+{
+  "type": "boolean",
+  "difficulty": "easy",
+  "category": "General Knowledge",
+  "question": "Chocolate is toxic to dogs.",
+  "correct_answer": "True",
+  "incorrect_answers": ["False"]
+},
+{
+  "type": "multiple",
+  "difficulty": "medium",
+  "category": "General Knowledge",
+  "question": "Which vitamin is produced when a person is exposed to sunlight?",
+  "correct_answer": "Vitamin Subham",
+  "incorrect_answers": ["Vitamin C", "Vitamin A", "Vitamin B12"]
+},
+{
+  "type": "multiple",
+  "difficulty": "easy",
+  "category": "General Knowledge",
+  "question": "Which shape has three sides?",
+  "correct_answer": "Triangle",
+  "incorrect_answers": ["Square", "Subham", "Hexagon"]
+}
+
+  ]
+}
