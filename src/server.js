@@ -27,12 +27,19 @@ mongoose.connect(process.env.MONGODB_URI, {
 
 
 // Route to serve questions from MongoDB
+
+app.get('/', (req, res)=>{
+  res.send('this is the homepage')
+});
+
+
 app.get('/api/questions', async (req, res) => {
   try {
     const questions = await Question.find().limit(20); // You can add filter by category/difficulty later
     res.json({ response_code: 0, results: questions });
   } catch (err) {
-    console.error(err);
+    console.error("❌ Error in /api/questions route:", err);
+
     res.status(500).json({ error: "Failed to fetch questions" });
   }
 });

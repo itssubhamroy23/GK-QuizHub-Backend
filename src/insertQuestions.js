@@ -9,7 +9,7 @@ const questions = [
     type: "multiple",
     difficulty: "easy",
     category: "General Knowledge",
-    question: "What does the G stand for in the GDI?",
+    question: "What does the WOW stand for in the GDI?",
     correct_answer: "Global",
     incorrect_answers: ["Gross", "General", "Graphical"]
   },
